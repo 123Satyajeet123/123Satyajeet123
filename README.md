@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ChaitanyaKatti/123Satyajeet123/assets/96473570/f7b884d0-db9b-4e0b-b0de-4c8ad1553596" height=300rem>
+  <img src=https://github.com/ChaitanyaKatti/123Satyajeet123/assets/96473570/fcecad64-2d5c-4dc6-b393-e75f28842840"" height=300rem>
 </div>
 
 <h1 align="center">Hi there, I'm Satyajeet👋</h1>
