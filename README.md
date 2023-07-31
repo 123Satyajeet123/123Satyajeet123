@@ -83,6 +83,3 @@
   </a>
 </p>
 
-
-
-<p align="left">- Thanks to <a href="https://github.com/ChaitanyaKatti">Chaitanya</a></p>
